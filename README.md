@@ -13,6 +13,8 @@ Open http://localhost:5000 and take look around.
 
 # Libraries, npm packages and third party-party plug-ins:
 - express
+- body-parser 
+- helmet
 - nodemon
 - webpack
 - webpack-cli
